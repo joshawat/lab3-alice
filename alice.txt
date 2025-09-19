@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 something something something
+=======
+kdrama
+>>>>>>> 5d305ec3278e229d07d787cf60c045d245c528d2
